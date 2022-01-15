@@ -22,6 +22,6 @@ This repo contains all the presentations that are related to Machine Learning
 
 There will be another folder or a child folder which also contains data and jupyter notebook for the same.
 
-This will be updated by May 31st.
+This will be updated by Feb 15th 2022
 
 
